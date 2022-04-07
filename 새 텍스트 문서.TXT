@@ -1,0 +1,4 @@
+touch: 비어있는 파일을 만들어줍니다.
+ex) touch index.html
+
+-rw-r--r-- 권한
